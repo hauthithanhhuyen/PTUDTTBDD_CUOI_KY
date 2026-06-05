@@ -17,6 +17,7 @@ Upload:
 huyen.jpg
 <img width="472" height="443" alt="image" src="https://github.com/user-attachments/assets/805fe15f-2666-4dd7-aa55-593038794306" />
 
-<img width="1918" height="991" alt="image" src="https://github.com/user-attachments/assets/282223dc-18fc-49a4-8936-4bd33ca93a2e" />
 # Bước 5: Thêm nút chức năng
 <img width="378" height="217" alt="image" src="https://github.com/user-attachments/assets/4e96e8e6-b85c-48d6-accb-656a4656ddb4" />
+# Kết Quả sceen 1
+<img width="1918" height="991" alt="image" src="https://github.com/user-attachments/assets/282223dc-18fc-49a4-8936-4bd33ca93a2e" />
