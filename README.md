@@ -50,7 +50,45 @@ Thêm thuộc tính
 <img width="1457" height="746" alt="image" src="https://github.com/user-attachments/assets/8179295a-9695-487e-94c8-ba7a51c6be1a" />
 # Kiểm tra kết nối trên điện thoại
 <img width="1184" height="2560" alt="image" src="https://github.com/user-attachments/assets/f85b92fe-4855-42fd-80a8-69f2500a5324" />
-#
+
+###  Viết app sử dụng Android Studio
+<img width="923" height="756" alt="image" src="https://github.com/user-attachments/assets/d3834588-750d-4d6c-96d7-d4089e56ce2c" />
+# tạO PROJECT
+<img width="1036" height="657" alt="image" src="https://github.com/user-attachments/assets/cec706a5-225b-4c91-ac35-ef0191bf36b9" />
+# GIAO DIỆN ĐỂ LÀM BTTAP
+<img width="1667" height="960" alt="image" src="https://github.com/user-attachments/assets/a35b6d72-206e-41d3-afcb-21b83f8f2e2b" />
+# TẠO ASSET TẠO FILE 
+<img width="1097" height="777" alt="image" src="https://github.com/user-attachments/assets/ee5df71c-9b1d-43f7-a2ba-004b5bdfd93a" />
+# LAM BÀI DU LỊCH
+TẠO FILE XONG CHO CODE VÀO
+<img width="1632" height="897" alt="image" src="https://github.com/user-attachments/assets/0b35fdd9-61b7-45fb-ad7a-a80d729059dd" />
+# mô tả bằng file XML + UI Design review
+<img width="1552" height="941" alt="image" src="https://github.com/user-attachments/assets/6ee78e2d-a9b4-4676-9b96-a091c9924b34" />
+# ĐỔI TÊN CÁC THUỘC TÍNH
+<img width="1391" height="821" alt="image" src="https://github.com/user-attachments/assets/2c59114e-66b7-4897-ba2c-5ef197d6a758" />
+# CHỈNH FILE MainActivity 
+<img width="1593" height="917" alt="image" src="https://github.com/user-attachments/assets/41c2cb16-570f-4f7a-a016-a32340b79c9f" />
+# Tạo máy ảo trong cửa sổ Device Manager
+<img width="1303" height="850" alt="image" src="https://github.com/user-attachments/assets/bd2cb454-453b-477d-aac1-9f9d6846fb89" />
+<img width="742" height="936" alt="image" src="https://github.com/user-attachments/assets/dd67a02d-5e1e-4451-b4c4-d3208778c16d" />
+# dữ liẹu chạy vào máy ảo
+<img width="648" height="693" alt="image" src="https://github.com/user-attachments/assets/bb0f221f-8b38-484b-a2f0-a1a78b19f2c0" />
+# Kết quả
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/871a8535-1e57-4cad-a584-70d840a71e1f" />
+# APP2 (android studio):  tạo app tương đương với Mit App inventor
+Tạo Activity 2
+<img width="1172" height="811" alt="image" src="https://github.com/user-attachments/assets/f9bec9e2-088e-458e-a218-6923f23fc004" />
+Tạo Activity 3
+<img width="1115" height="821" alt="image" src="https://github.com/user-attachments/assets/12516913-d5c7-4404-acc3-7c1babe3e9d0" />
+
+
+
+
+
+
+
+
+
 
 
 
