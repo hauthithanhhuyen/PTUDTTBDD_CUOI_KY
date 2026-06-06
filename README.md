@@ -50,7 +50,7 @@ Thêm thuộc tính
 <img width="1457" height="746" alt="image" src="https://github.com/user-attachments/assets/8179295a-9695-487e-94c8-ba7a51c6be1a" />
 # Kiểm tra kết nối trên điện thoại
 <img width="1184" height="2560" alt="image" src="https://github.com/user-attachments/assets/f85b92fe-4855-42fd-80a8-69f2500a5324" />
-
+#
 
 
 
