@@ -38,6 +38,20 @@ giao diện
  # Chọn  kết nối xa trên máy tính
  # Ở điện thoại tải  app về và quét mã
  <img width="1238" height="868" alt="image" src="https://github.com/user-attachments/assets/5f2e479a-d4e3-4e48-a3a7-a3b09f993302" />
+# Kết quả của screen 2
+<img width="1920" height="2560" alt="image" src="https://github.com/user-attachments/assets/be6c4b72-07df-4b11-8a5f-d6ccc184015d" />
+<img width="1233" height="636" alt="image" src="https://github.com/user-attachments/assets/52130be7-8777-4a0b-ac8f-2c74c7d318c5" />
+
+## Trình bày screen 3
+Thêm thuộc tính
+<img width="1445" height="885" alt="image" src="https://github.com/user-attachments/assets/de0dfef6-d49a-4dbf-b1d5-990d0b34f98f" />
+## Chỉnh Thuộc tính
+<img width="1606" height="783" alt="image" src="https://github.com/user-attachments/assets/e3c06f47-5a8d-47da-b51c-f943537fb500" />
+<img width="1457" height="746" alt="image" src="https://github.com/user-attachments/assets/8179295a-9695-487e-94c8-ba7a51c6be1a" />
+# Kiểm tra kết nối trên điện thoại
+<img width="1184" height="2560" alt="image" src="https://github.com/user-attachments/assets/f85b92fe-4855-42fd-80a8-69f2500a5324" />
+
+
 
 
  
