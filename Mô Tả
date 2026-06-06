@@ -1,0 +1,115 @@
+# Bài tập MIT App Inventor
+
+## 1. Giới thiệu
+
+Bài tập này thực hiện xây dựng một ứng dụng Android bằng công cụ MIT App Inventor. Ứng dụng gồm 3 màn hình chính: màn hình giới thiệu bản thân, màn hình giải bài toán đơn giản và màn hình hiển thị website bằng WebViewer.
+
+## 2. Công cụ sử dụng
+
+Công cụ được sử dụng là MIT App Inventor. Đây là nền tảng lập trình trực quan, cho phép tạo ứng dụng Android bằng cách kéo thả các thành phần giao diện và ghép các khối lệnh để xử lý chức năng.
+
+## 3. Mô tả ứng dụng
+
+Ứng dụng gồm 3 Screen:
+
+### Screen1: Giới thiệu bản thân
+
+Screen1 là màn hình chính của ứng dụng. Màn hình này hiển thị thông tin cá nhân gồm ảnh, họ tên, mã sinh viên, sở thích và có hai nút chức năng.
+
+Các thành phần sử dụng:
+
+* Label hiển thị tiêu đề.
+* Image hiển thị ảnh cá nhân.
+* Label hiển thị họ tên.
+* Label hiển thị mã sinh viên.
+* Label hiển thị sở thích.
+* Button Giải toán để chuyển sang Screen2.
+* Button Website để chuyển sang Screen3.
+
+### Screen2: Giải bài toán đơn giản
+
+Screen2 dùng để giải bài toán tính tổng hai số. Người dùng nhập hai số vào hai ô TextBox, sau đó bấm nút Giải Toán. Ứng dụng sẽ cộng hai số và hiển thị kết quả lên Label.
+
+Các thành phần sử dụng:
+
+* TextBox nhập số thứ nhất.
+* TextBox nhập số thứ hai.
+* Button Giải Toán.
+* Label hiển thị kết quả.
+* Button Quay Lại.
+
+### Screen3: Hiển thị website bằng WebViewer
+
+Screen3 sử dụng thành phần WebViewer để hiển thị một trang web có sẵn. Trong bài này, WebViewer được cấu hình để mở website WordPress cá nhân.
+
+Đường dẫn website:
+
+https://wp.hauthanhhuyen.id.vn
+
+Các thành phần sử dụng:
+
+* Label hiển thị tiêu đề WEBSITE.
+* WebViewer hiển thị trang web.
+* Button Quay Lại.
+
+## 4. Mô tả thanh công cụ MIT App Inventor
+
+Giao diện MIT App Inventor gồm các khu vực chính:
+
+Palette là nơi chứa các thành phần có thể kéo thả vào ứng dụng như Label, TextBox, Button, Image, WebViewer.
+
+Viewer là khu vực mô phỏng màn hình điện thoại, dùng để bố trí giao diện ứng dụng.
+
+Components hiển thị danh sách các thành phần đã được thêm vào màn hình.
+
+Properties dùng để thay đổi thuộc tính của từng thành phần như Text, Width, Height, FontSize, Picture, HomeUrl.
+
+Blocks là nơi lập trình chức năng cho ứng dụng bằng cách ghép các khối lệnh.
+
+## 5. Mô tả thao tác kéo thả và thay đổi thuộc tính
+
+Trong quá trình thiết kế ứng dụng, người lập trình chọn thành phần cần dùng trong Palette rồi kéo thả vào Viewer. Sau đó chọn thành phần trong Components và chỉnh sửa thuộc tính ở Properties.
+
+Ví dụ: để tạo nút Giải Toán, kéo thành phần Button vào màn hình, sau đó đổi thuộc tính Text thành "Giải Toán". Để thêm ảnh cá nhân, kéo thành phần Image vào màn hình, tải ảnh lên và chọn ảnh trong thuộc tính Picture.
+
+Việc thay đổi thuộc tính giúp giao diện rõ ràng, dễ sử dụng và phù hợp với mục đích của từng màn hình.
+
+## 6. Mô tả Blocks
+
+Blocks là các khối lệnh dùng để lập trình chức năng cho ứng dụng. Người lập trình kéo các block và ghép chúng lại với nhau để tạo logic xử lý.
+
+Trong ứng dụng này, Blocks được sử dụng để:
+
+* Chuyển từ Screen1 sang Screen2 khi bấm nút Giải Toán.
+* Chuyển từ Screen1 sang Screen3 khi bấm nút Website.
+* Tính tổng hai số ở Screen2.
+* Quay lại Screen1 từ Screen2 và Screen3.
+
+Bản chất của việc kéo thả block là thay thế việc viết code truyền thống bằng cách ghép các câu lệnh trực quan. Mỗi block tương ứng với một hành động hoặc một lệnh xử lý trong chương trình.
+
+## 7. Ưu điểm và nhược điểm của lập trình bằng Blocks
+
+Ưu điểm:
+
+* Dễ học, phù hợp với người mới bắt đầu.
+* Không cần nhớ nhiều cú pháp lập trình.
+* Hạn chế lỗi sai cú pháp.
+* Dễ quan sát luồng xử lý của chương trình.
+* Tạo ứng dụng nhanh.
+
+Nhược điểm:
+
+* Không phù hợp với ứng dụng lớn, phức tạp.
+* Khó tối ưu hiệu năng.
+* Khi có quá nhiều block thì khó quản lý.
+* Ít linh hoạt hơn so với lập trình bằng Java hoặc Kotlin trong Android Studio.
+
+## 8. Backpack trong MIT App Inventor
+
+Backpack là chức năng dùng để copy và tái sử dụng các block. Khi muốn dùng lại một đoạn block, người lập trình có thể kéo block đó vào Backpack. Sau đó có thể mở Backpack ở Screen khác hoặc Project khác và kéo block ra sử dụng lại.
+
+Chức năng này giúp tiết kiệm thời gian, giảm thao tác lặp lại và giúp tái sử dụng các đoạn xử lý giống nhau.
+
+## 9. Kết quả đạt được
+
+Ứng dụng đã hoàn thành các yêu cầu đề bài. App có 3 màn hình gồm giới thiệu bản thân, giải toán đơn giản và hiển thị website bằng WebViewer. Các nút chuyển màn hình, tính toán và quay lại đều hoạt động đúng. Ứng dụng có thể chạy thử trên điện thoại thông qua MIT AI2 Companion hoặc xuất thành file APK để cài đặt.
