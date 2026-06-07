@@ -76,9 +76,9 @@ TẠO FILE XONG CHO CODE VÀO
 # Kết quả
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/871a8535-1e57-4cad-a584-70d840a71e1f" />
 # APP2 (android studio):  tạo app tương đương với Mit App inventor
-Tạo Activity 2
+## Tạo Activity 2
 <img width="1172" height="811" alt="image" src="https://github.com/user-attachments/assets/f9bec9e2-088e-458e-a218-6923f23fc004" />
-Tạo Activity 3
+## Tạo Activity 3
 <img width="1115" height="821" alt="image" src="https://github.com/user-attachments/assets/12516913-d5c7-4404-acc3-7c1babe3e9d0" />
 
 
