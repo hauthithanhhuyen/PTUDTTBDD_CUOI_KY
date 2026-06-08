@@ -129,9 +129,24 @@ huyen.jpg
 
 <img width="1172" height="811" alt="image" src="https://github.com/user-attachments/assets/f9bec9e2-088e-458e-a218-6923f23fc004" />
 
+# Giải toán đơn giản (tuỳ ý). mỗi khi giải xong bài toán: gọi api tại https://k58kmt.tdh.io.vn/api
+
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/c1efec23-c9a7-4f7c-be0c-eadf48d0aa71" />
+
+ <img width="1132" height="360" alt="image" src="https://github.com/user-attachments/assets/afc9b6e2-f74d-4fc5-ad08-8d10a2422065" />
+
 ## Tạo Activity 3
 
 <img width="1115" height="821" alt="image" src="https://github.com/user-attachments/assets/12516913-d5c7-4404-acc3-7c1babe3e9d0" />
+
+# Dùng web-view để truy cập từ 
+
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/b6fa78ad-5615-4b52-8d45-46ecbd3e9710" />
+
+# Dùng trang web truy cập
+
+<img width="1341" height="382" alt="image" src="https://github.com/user-attachments/assets/205c70c2-73aa-4d0c-a619-4121adc1ebc4" />
+
 
 
 
